@@ -1,0 +1,33 @@
+/* Thiết lập một font chữ thụ động */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Thiết lập màu nền và màu chữ cho toàn bộ trang */
+body {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Tạo tiêu đề cho trang */
+h1 {
+ 
+    margin-top: 50px;
+    font-size: 36px;
+}
+
+/* Định dạng nút */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    margin-top: 200px;
+}
+
